@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saikumar15796/protfolio.git/static/css/main.8a6f6be7.css",
+    "main.js": "/saikumar15796/protfolio.git/static/js/main.b5cb42ac.js",
+    "static/js/453.c8246df0.chunk.js": "/saikumar15796/protfolio.git/static/js/453.c8246df0.chunk.js",
+    "index.html": "/saikumar15796/protfolio.git/index.html",
+    "main.8a6f6be7.css.map": "/saikumar15796/protfolio.git/static/css/main.8a6f6be7.css.map",
+    "main.b5cb42ac.js.map": "/saikumar15796/protfolio.git/static/js/main.b5cb42ac.js.map",
+    "453.c8246df0.chunk.js.map": "/saikumar15796/protfolio.git/static/js/453.c8246df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a6f6be7.css",
+    "static/js/main.b5cb42ac.js"
+  ]
+}
