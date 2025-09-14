@@ -5,14 +5,14 @@ import About from './about';
 import Intro from './intro';
 import Contact from './contact';
 import Projects from './project';
-import { BrowserRouter,Route,Routes } from 'react-router-dom';
+import { HashRouter as Router,Route,Routes } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css";
 
 
 function App() {
   return (
    <>
-   <BrowserRouter>
+   <Router>
    <Routes>
     <Route path="/" element={<Home />}>
           <Route index element={<Intro />} />
@@ -22,7 +22,7 @@ function App() {
      </Route>
    </Routes>
    
-   </BrowserRouter>
+   </Router>
    </>
   );
 }

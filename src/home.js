@@ -23,7 +23,7 @@ function Home (prop){
             </div>
             <div className="text-center mt-5">
                 <img
-                    src="/01.jpg" // replace with your image URL or import
+                    src={`${process.env.PUBLIC_URL}/01.jpg`}  // replace with your image URL or import
                     alt="Profile"
                     className="rounded-circle border border-3 border-info"
                     width="450"
