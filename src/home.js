@@ -22,7 +22,7 @@ function Home (prop){
        </div>
        <div className="col-lg-6   text-white mt-5 ">
            
-            <div className="text-center mt-5" >
+            <div className="text-center mt-5 " >
                 <img
                     src={`${process.env.PUBLIC_URL}/01.jpg`}  // replace with your image URL or import
                     alt="Profile"
