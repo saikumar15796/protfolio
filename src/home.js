@@ -26,9 +26,9 @@ function Home (prop){
                 <img
                     src={`${process.env.PUBLIC_URL}/01.jpg`}  // replace with your image URL or import
                     alt="Profile"
-                    className="rounded-circle border border-3 border-info"
-                    width="400"
-                    height="400"
+                    className="rounded-circle border border-3 border-info img-fluid"
+                    width="280"
+                    height="280"
                 />
            </div>
         </div>
